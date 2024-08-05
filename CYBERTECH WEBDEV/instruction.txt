@@ -1,0 +1,4 @@
+Please, make a web site for PC view and SP view
+The design is not proper size for web.
+Please, consider proper web size while you are coding.
+About SP, make proper design for SP view.
